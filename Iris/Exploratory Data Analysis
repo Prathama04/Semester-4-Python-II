@@ -1,0 +1,22 @@
+What is Exploratory Data Analysis (EDA)?
+EDA is a process or approach to finding out the most useful features from a dataset according to your problem which helps you to choose the correct and efficient algorithm for your solution.
+
+Why is Exploratory Data Analysis Important?
+There are some prerequisites for every project and EDA is a prerequisite process for any data science or machine learning project. If you are in a hurry and skip EDA then you may face some outliers and too many missing values and, therefore, some
+bad outcomes for the project:
+1. Wrong model
+2. Right model on wrong data
+3. Selection of wrong features for model building.
+
+How to do Exploratory Data Analysis?
+We can do EDA with programming languages and data visualization tools.
+The most popular programming languages are:
+1. Python
+2. R
+The most popular data visualization tools are:
+1. Tableau
+2. Power BI
+3. Infogram
+4. Plotly
+
+To download the Iris flower dataset: https://www.kaggle.com/arshid/iris-flower-dataset
